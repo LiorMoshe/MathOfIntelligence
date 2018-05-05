@@ -1,3 +1,4 @@
 Solution for the coding challenge of the [this video](https://www.youtube.com/watch?v=UIFMLK2nj_w).
 In this challenge we implemented newton's method for root finding (also known as newton-raphson) and newton's method for second order optimization.
 We compared between the second order optimization using newton's method and the first order optimization using Gradient Descent on a given dataset for a linear regression task.
+(the dataset that we used is pretty slim on purpose because this challenge is not about the amount of data,we only focus on the optimization algorithms and their implementations).

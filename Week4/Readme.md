@@ -1,0 +1,2 @@
+Implementation of the coding challenge for week4 of the math of intelligence series by Siraj Raval ([SOM video](https://www.youtube.com/watch?v=ov_RkIJptwE)).
+The main target of this notebook is to explain the concepts of the math behind the self organizing map algorithm and going through the code in the same time.

@@ -1,0 +1,2 @@
+Implementation of [week3](https://www.youtube.com/watch?v=s0Q3CojqRfM) coding challenge for the Math of Intelligence series by Siraj
+Raval, in this week we focus on the usage of vectors while using machine learning models and how they are used for regularization.

@@ -1,0 +1,2 @@
+Implementation of the coding challenge for [week5](https://www.youtube.com/watch?v=jPmV3j1dAv4) coding challenge of the Math of Intelligence series.
+In this challenge I passed through the meaning of the PCA algorithm, what it does and how it works. And showed an example on two datasets: higher dimensional data (that we can't really visualize) for classification of glass types and the famous iris dataset that was used as a lower dimensional dataset that we can visualize the effects of PCA on the data (using 3D and 2D plots of matplotlib).

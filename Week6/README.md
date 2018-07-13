@@ -1,0 +1,4 @@
+Week 6 coding challenge for the Math of Intelligence series by siraj raval, this weeks challenge was focues on probability theory and
+the naive bayes classifier,I used this algorithm to show a basic solution to the famous sentiment analysis problem on a pretty raw dataset.
+This notebook is mainly for educational purposes, the main reason of this notebook is to show the idea behind the algorithm (the code isn't designed for production environments).
+Another idea that is tried out in the notebook and isn't showed in the video is using the tfidf statistic measure instead of the basic bag of words approach in naive bayes.
